@@ -5,7 +5,7 @@
 2) Установите убедитесь, что установлена поледняя версия ```pip``` для ```python3.6```
 
 ### Python
-1) Скачайте последний [релиз](https://github.com/kivicode/models/releases/) ```WasteBot GUI```
+1) Скачайте последний [релиз](https://github.com/kivicode/Public-Releases/releases) ```WasteBot GUI```
 2) Установите необходимые библиотеки ```sudo python3.6 -m pip install -r requirements.txt ```
 3) На любом компьютере в локальной сети повторите шаги 1 и 2 и запустите сервер ```sh server.py```
 
@@ -20,7 +20,7 @@
 ---
 
 ### Симуляция
-1. Скачайте последний [релиз симулятора](https://github.com/kivicode/Public-Releases/releases/tag/v2.0-alpha) ```WasteBot Simulation```
+1. Скачайте последний [релиз симулятора](https://github.com/kivicode/Public-Releases/releases) ```WasteBot Simulation```
 2. Модифицируйте или используйте уже готовый файл конфигурации сцены ```Examples/simple_scene.json```
 3. Запустите приложение симуляции
 4. Укажите полный путь до файла конфигурации сцены в поле в верхнем правом углу
