@@ -2,7 +2,7 @@
 
 ### Перед установкой
 1) Установите [python3.6](https://www.python.org/downloads/release/python-362/)
-2) Установите убедитесь, что установлена поледняя версия ```pip``` для ```python3.6```
+2) Убедитесь, что установлена поледняя версия ```pip``` для ```python3.6```
 
 ### Python
 1) Скачайте последний [релиз](https://github.com/kivicode/Public-Releases/releases) ```WasteBot GUI```
